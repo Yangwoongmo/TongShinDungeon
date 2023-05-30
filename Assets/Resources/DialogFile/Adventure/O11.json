@@ -1,0 +1,20 @@
+{
+    "dialogs" : [
+        {
+            "message" : "성역으로 가는 길을 찾아야 해요",
+            "speaker" : "WARRIOR",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        },
+        {
+            "message" : "성역 입구가 보여요..!",
+            "speaker" : "MAGICIAN",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        }
+    ]
+}

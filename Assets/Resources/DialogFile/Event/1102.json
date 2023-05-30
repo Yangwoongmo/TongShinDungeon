@@ -1,0 +1,87 @@
+{
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "잠시 할 말이 있어요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "이렇게 멀리까지 와본 것은 처음이에요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 1,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 1,
+                    "magicianPoseType" : 1
+                },
+                {
+                    "message" : "처음엔 어떻게 되나 싶었는데…\n이제 희망이 보이는 것 같아요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 1,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 1,
+                    "magicianPoseType" : 1
+                },
+                {
+                    "message" : "전부 조상님이 도와주신 덕분이에요.\n감사합니다",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 1,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 2,
+                    "magicianPoseType" : 1
+                },
+                {
+                    "message" : "저도 정말 고마워요 조상님!",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 2,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 2,
+                    "magicianPoseType" : 1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "네!",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 2,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 2,
+                    "magicianPoseType" : 1
+                }
+            ]
+        }
+    ],
+
+    "selection" : [
+        {
+            "id" : "module1",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "네",
+                    "moveTarget" : "sA"
+                }
+            ]
+        },
+        {
+            "id" : "selectionA",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "잘했어요",
+                    "moveTarget" : "m2"
+                }
+            ]
+        }  
+    ]
+}

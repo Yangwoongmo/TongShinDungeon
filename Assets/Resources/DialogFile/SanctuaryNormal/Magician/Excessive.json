@@ -1,0 +1,40 @@
+{
+    "dialogs" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "너무 많이 떠들었네요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "조상님도 푹 쉬세요" ,
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "저는 잠시 사색이 하고 싶네요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

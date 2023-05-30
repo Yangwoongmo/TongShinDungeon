@@ -1,0 +1,12 @@
+{
+    "dialogs" : [
+        {
+            "message" : "페인트가 부족해요",
+            "speaker" : "MAGICIAN",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        }
+    ]
+}

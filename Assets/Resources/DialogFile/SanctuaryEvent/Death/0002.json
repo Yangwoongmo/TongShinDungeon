@@ -1,0 +1,30 @@
+{
+    "dialogs" : [
+        {
+            "id" : "0002",
+            "sequence" : [
+                {
+                    "message" : "옮기느라 힘들었어요",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "0003",
+            "sequence" : [
+                {
+                    "message" : "다음엔 더 잘해봐요",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

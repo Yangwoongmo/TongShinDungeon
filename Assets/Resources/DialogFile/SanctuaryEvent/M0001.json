@@ -1,0 +1,74 @@
+{
+    "open" : 1,
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "던전에도 괜찮은 책이 있네요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "원숭이도 할 수 있는 마법의 기초!",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "이걸로 제 마법 실력은 한 단계 발전하겠죠",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "후후 기대하세요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "앞으로는 마법 구체를 두개까지 만들 수 있을 거에요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ],
+
+    "selection" : [
+        {
+            "id" : "module0",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "??",
+                    "moveTarget" : "m1"
+                },
+                {
+                    "optionText" : "???",
+                    "moveTarget" : "m1"
+                },
+                {
+                    "optionText" : "????",
+                    "moveTarget" : "m1"
+                }
+            ]
+        } 
+    ]
+}

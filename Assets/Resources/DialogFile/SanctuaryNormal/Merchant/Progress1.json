@@ -1,0 +1,17 @@
+{
+    "dialogs" : [
+        {
+            "id" : "RT1001",
+            "sequence" : [
+                {
+                    "message" : "슬슬 익숙해진 것 같네",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

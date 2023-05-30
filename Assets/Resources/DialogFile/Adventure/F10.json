@@ -1,0 +1,12 @@
+{
+    "dialogs" : [
+        {
+            "message" : "주인이 그리웠을까요…",
+            "speaker" : "WARRIOR",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        }
+    ]
+}

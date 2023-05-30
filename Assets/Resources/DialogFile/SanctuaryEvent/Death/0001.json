@@ -1,0 +1,17 @@
+{
+    "dialogs" : [
+        {
+            "id" : "0001",
+            "sequence" : [
+                {
+                    "message" : "아아 들리나요?",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

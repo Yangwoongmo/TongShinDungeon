@@ -1,0 +1,46 @@
+{
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "TEST",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "TEST",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 3,
+                    "magicianFaceType" : 3,
+                    "magicianPoseType" : 2
+                },
+                {
+                    "message" : "TESt",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 4,
+                    "warriorPoseType" : 3,
+                    "magicianFaceType" : 3,
+                    "magicianPoseType" : 2
+                },
+                {
+                    "message" : "TEST",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 3,
+                    "magicianFaceType" : 4,
+                    "magicianPoseType" : 3
+                }
+            ]
+        }
+    ],
+
+    "selection" : []
+}

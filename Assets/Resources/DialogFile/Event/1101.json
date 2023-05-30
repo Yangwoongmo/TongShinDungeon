@@ -1,0 +1,131 @@
+{
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "쉬잇…! 잠시만요!",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "근처에서 몬스터의 기척이 느껴져요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 3,
+                    "magicianFaceType" : 3,
+                    "magicianPoseType" : 2
+                },
+                {
+                    "message" : "드디어 실전의 시간이 왔네요…",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 4,
+                    "warriorPoseType" : 3,
+                    "magicianFaceType" : 3,
+                    "magicianPoseType" : 2
+                },
+                {
+                    "message" : "꿀꺽…",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 3,
+                    "magicianFaceType" : 4,
+                    "magicianPoseType" : 3
+                },
+                {
+                    "message" : "…",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 4,
+                    "magicianPoseType" : 3
+                },
+                {
+                    "message" : "우리가 할 수 있을까요...?",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 4,
+                    "magicianPoseType" : 3
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "고마워요 조상님",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 2,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 1,
+                    "magicianPoseType" : 2
+                },
+                {
+                    "message" : "힘내서 가볼게요!",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 3,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 2,
+                    "magicianPoseType" : 2
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "노...농담이죠...?",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 4,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 4,
+                    "magicianPoseType" : 3
+                },
+                {
+                    "message" : "우리 할 수 있겠죠...?",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : 4,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 4,
+                    "magicianPoseType" : 3
+                }
+            ]
+        }
+    ],
+
+    "selection" : [
+        {
+            "id" : "module1",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "네",
+                    "moveTarget" : "m2"
+                },
+                {
+                    "optionText" : "아니오",
+                    "moveTarget" : "m3"
+                }
+            ]
+        },
+        {
+            "id" : "module3",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "네",
+                    "moveTarget" : "m2"
+                },
+                {
+                    "optionText" : "아니오",
+                    "moveTarget" : "m3"
+                }
+            ]
+        }  
+    ]
+}

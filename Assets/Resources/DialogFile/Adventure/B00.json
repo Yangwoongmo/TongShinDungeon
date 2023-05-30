@@ -1,0 +1,20 @@
+{
+    "dialogs" : [
+        {
+            "message" : "꾹!",
+            "speaker" : "WARRIOR",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        },
+        {
+            "message" : "무언가 열리는 소리가 들려요",
+            "speaker" : "MAGICIAN",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        }
+    ]
+}

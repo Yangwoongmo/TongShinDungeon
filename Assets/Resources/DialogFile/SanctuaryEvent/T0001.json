@@ -1,0 +1,58 @@
+{
+    "open" : -1,
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "안녕하세요",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "전 괜찮은 물건들을 팔고 있습니다",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "앞으로 좋은 거래 부탁드릴게요",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "...흐흐흐",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ],
+
+    "selection" : [
+        {
+            "id" : "module0",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "네",
+                    "moveTarget" : "m1"
+                }
+            ]
+        } 
+    ]
+}

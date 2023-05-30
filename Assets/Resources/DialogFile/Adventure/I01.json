@@ -1,0 +1,20 @@
+{
+    "dialogs" : [
+        {
+            "message" : "열리지 않아요",
+            "speaker" : "WARRIOR",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        },
+        {
+            "message" : "잠긴 것 같아요",
+            "speaker" : "MAGICIAN",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        }
+    ]
+}

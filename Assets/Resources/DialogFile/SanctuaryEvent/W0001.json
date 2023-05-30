@@ -1,0 +1,114 @@
+{
+    "open" : 0,
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "이 책은 검술에 대한 지식이 담겨 있네요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "머리에 강한 충격을 주면 망자를 빠르게 기절시킬 수 있다고 해요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "으으 제가 잘 할 수 있을까요?",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "고마워요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "너무해요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "sequence" : [
+                {
+                    "message" : "어쨌든 제가 열심히 해야죠",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "앞으로 강타라고 외쳐주시면 이 기술을 써볼게요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ],
+
+    "selection" : [
+        {
+            "id" : "module0",
+            "type" : "OPTION",
+            "options" : [
+                {
+                    "optionText" : "네",
+                    "moveTarget" : "m1"
+                },
+                {
+                    "optionText" : "아니오",
+                    "moveTarget" : "m2"
+                }
+            ]
+        },
+        {
+            "id" : "module1",
+            "type" : "CONT",
+            "options" : [
+                {
+                    "optionText": "",
+                    "moveTarget" : "m3"
+                }
+            ]
+        },
+        {
+            "id" : "module2",
+            "type" : "CONT",
+            "options" : [
+                {
+                    "optionText": "",
+                    "moveTarget" : "m3"
+                }
+            ]
+        } 
+    ]
+}

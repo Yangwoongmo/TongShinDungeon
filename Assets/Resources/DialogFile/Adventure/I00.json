@@ -1,0 +1,36 @@
+{
+    "dialogs" : [
+        {
+            "message" : "아팟!",
+            "speaker" : "WARRIOR",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        },
+        {
+            "message" : "아야야!",
+            "speaker" : "WARRIOR",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        },
+        {
+            "message" : "꺄악!",
+            "speaker" : "MAGICIAN",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        },
+        {
+            "message" : "아파요!",
+            "speaker" : "MAGICIAN",
+            "warriorFaceType" : -1,
+            "warriorPoseType" : -1,
+            "magicianFaceType" : -1,
+            "magicianPoseType" : -1
+        }
+    ]
+}

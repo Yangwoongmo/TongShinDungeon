@@ -1,0 +1,17 @@
+{
+    "dialogs" : [
+        {
+            "id" : "RM1001",
+            "sequence" : [
+                {
+                    "message" : "마법의 원리를 깨닫고 있어요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

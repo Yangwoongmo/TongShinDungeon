@@ -1,0 +1,64 @@
+{
+    "dialogs" : [
+        {
+            "id" : "RT0001",
+            "sequence" : [
+                {
+                    "message" : "유령도 돈이 필요해",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "그래야 성불을 할 수 있어",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RT0002",
+            "sequence" : [
+                {
+                    "message" : "안녕",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RT0003",
+            "sequence" : [
+                {
+                    "message" : "돈은 충분히 가져왔어?",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RT0004",
+            "sequence" : [
+                {
+                    "message" : "난 돈이 좋아",
+                    "speaker" : "MERCHANT",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

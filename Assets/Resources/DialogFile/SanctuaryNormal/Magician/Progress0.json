@@ -1,0 +1,64 @@
+{
+    "dialogs" : [
+        {
+            "id" : "RM0001",
+            "sequence" : [
+                {
+                    "message" : "조상님은 전생을 기억하나요?",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "기억을 잃는다면 너무 슬플 것 같아요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RM0002",
+            "sequence" : [
+                {
+                    "message" : "다양한 식물을 볼 수 있는게 유일한 위안이네요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RM0003",
+            "sequence" : [
+                {
+                    "message" : "저 상인 유령은 대체...",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RM0004",
+            "sequence" : [
+                {
+                    "message" : "전사는 항상 열심히에요",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

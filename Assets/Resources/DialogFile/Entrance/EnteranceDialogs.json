@@ -1,0 +1,103 @@
+{
+    "dialogs" : [
+        {
+            "id" : "0000_1",
+            "dialog" : {
+                "message" : "바깥 날씨는 어떨까요",
+                "speaker" : "WARRIOR",
+                "warriorFaceType" : 1,
+                "warriorPoseType" : 1,
+                "magicianFaceType" : 1,
+                "magicianPoseType" : 1
+            }
+        },
+        {
+            "id" : "0000_2",
+            "dialog" : {
+                "message" : "빨리 돌아가고 싶어",
+                "speaker" : "MAGICIAN",
+                "warriorFaceType" : 1,
+                "warriorPoseType" : 1,
+                "magicianFaceType" : 1,
+                "magicianPoseType" : 1
+            }
+        },
+        {
+            "id" : "0010",
+            "dialog" : {
+                "message" : "컨디션 최고에요~!",
+                "speaker" : "WARRIOR",
+                "warriorFaceType" : 2,
+                "warriorPoseType" : 1,
+                "magicianFaceType" : 2,
+                "magicianPoseType" : 1
+            }
+        },
+        {
+            "id" : "0020",
+            "dialog" : {
+                "message" : "그럭저럭 할만하네요",
+                "speaker" : "MAGICIAN",
+                "warriorFaceType" : 1,
+                "warriorPoseType" : 1,
+                "magicianFaceType" : 1,
+                "magicianPoseType" : 1
+            }
+        },
+        {
+            "id" : "0030",
+            "dialog" : {
+                "message" : "으음… 조금 힘드네요",
+                "speaker" : "WARRIOR",
+                "warriorFaceType" : 3,
+                "warriorPoseType" : 2,
+                "magicianFaceType" : 3,
+                "magicianPoseType" : 2
+            }
+        },
+        {
+            "id" : "0040",
+            "dialog" : {
+                "message" : "이젠 한계에요",
+                "speaker" : "MAGICIAN",
+                "warriorFaceType" : 4,
+                "warriorPoseType" : 3,
+                "magicianFaceType" : 4,
+                "magicianPoseType" : 3
+            }
+        },
+        {
+            "id" : "0014",
+            "dialog" : {
+                "message" : "팍팍 해치워 나가죠!",
+                "speaker" : "WARRIOR",
+                "warriorFaceType" : 2,
+                "warriorPoseType" : 1,
+                "magicianFaceType" : 2,
+                "magicianPoseType" : 1
+            }
+        },
+        {
+            "id" : "1104",
+            "dialog" : {
+                "message" : "이제 두렵지 않아요",
+                "speaker" : "WARRIOR",
+                "warriorFaceType" : 1,
+                "warriorPoseType" : 2,
+                "magicianFaceType" : 2,
+                "magicianPoseType" : 3
+            }
+        },
+        {
+            "id" : "0100",
+            "dialog" : {
+                "message" : "이곳엔 뼈다귀들이 많네요",
+                "speaker" : "MAGICIAN",
+                "warriorFaceType" : 1,
+                "warriorPoseType" : 2,
+                "magicianFaceType" : 1,
+                "magicianPoseType" : 2
+            }
+        }
+    ]
+}

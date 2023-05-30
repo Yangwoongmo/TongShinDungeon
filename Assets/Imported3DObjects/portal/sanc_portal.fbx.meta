@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 982957520a0e1434ea9d8f5656a18dda
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 161603284051972345
+    second: glow|dung_glow.001|dung_glow|PlaneAction
+  - first:
+      74: 6686510334251957311
+    second: glow|dung_glow.001|dung_glow|PlaneAction.001
+  - first:
+      74: 3094301865582022667
+    second: glow|dung_glow.001|dung_glow|PlaneAction.002
+  - first:
+      74: -6385501227901137057
+    second: glow|glow|glow|PlaneAction
+  - first:
+      74: 323305406795574721
+    second: glow|glow|glow|PlaneAction.001
+  - first:
+      74: 9130574823249776748
+    second: glow|Plane.005|Plane.005|PlaneAction
+  - first:
+      74: -5018418818567097863
+    second: glow|Plane.005|Plane.005|PlaneAction.001
+  - first:
+      74: -3908956334009461815
+    second: glow|Plane.005|Plane.005|PlaneAction.002
+  - first:
+      74: -1559459333305575142
+    second: glow|Plane.005|Plane.005|PlaneAction.003
+  - first:
+      74: 1679398749702047424
+    second: glow|Plane.005|Plane.005|PlaneAction.004
+  - first:
+      74: -7134121394442029020
+    second: glow|PlaneAction
+  - first:
+      74: -2956422084032221118
+    second: glow|PlaneAction.001
+  - first:
+      74: 8880649043154635125
+    second: glow|sanc_glow|sanc_glow|PlaneAction
+  - first:
+      74: -3746625272926958099
+    second: glow|sanc_glow|sanc_glow|PlaneAction.001
+  - first:
+      74: -3809186280634346549
+    second: glow|sanc_glow|sanc_glow|PlaneAction.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: f65e102295b69ee4daef7cb3e5165c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 6ee765bc3b59bbc4b8ed4313f5336b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PRE.003
+    second: {fileID: 2100000, guid: 767b398b68acb5f49be19320b1b9c463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portal_water.002
+    second: {fileID: 2100000, guid: 5be6cd679b501eb41b29cf12f0fb07d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sanc_gate.001
+    second: {fileID: 2100000, guid: 67a0d94a17120dc4e980735e012cc3ad, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

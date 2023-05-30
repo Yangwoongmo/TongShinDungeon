@@ -1,0 +1,64 @@
+{
+    "dialogs" : [
+        {
+            "id" : "RW0001",
+            "sequence" : [
+                {
+                    "message" : "조상님은 무슨 음식을 좋아하세요?",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                },
+                {
+                    "message" : "저는 김치라면을 좋아해요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RW0002",
+            "sequence" : [
+                {
+                    "message" : "마법은 너무 어려운 것 같아요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RW0003",
+            "sequence" : [
+                {
+                    "message" : "언젠간 나갈 수 있겠죠?",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        },
+        {
+            "id" : "RW0004",
+            "sequence" : [
+                {
+                    "message" : "마법사는 가끔 엉뚱해서 귀여워요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

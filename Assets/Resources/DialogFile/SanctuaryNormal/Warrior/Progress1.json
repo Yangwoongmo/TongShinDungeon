@@ -1,0 +1,17 @@
+{
+    "dialogs" : [
+        {
+            "id" : "RW1001",
+            "sequence" : [
+                {
+                    "message" : "검술이 익숙해지고 있는 기분이에요",
+                    "speaker" : "WARRIOR",
+                    "warriorFaceType" : -1,
+                    "warriorPoseType" : -1,
+                    "magicianFaceType" : -1,
+                    "magicianPoseType" : -1
+                }
+            ]
+        }
+    ]
+}

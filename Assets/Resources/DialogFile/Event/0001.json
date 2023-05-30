@@ -1,0 +1,34 @@
+{
+    "modules" : [
+        {
+            "sequence" : [
+                {
+                    "message" : "TEST",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 1,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 1,
+                    "magicianPoseType" : 1
+                },
+                {
+                    "message" : "TEST",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 1,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 1,
+                    "magicianPoseType" : 1
+                },
+                {
+                    "message" : "TEST",
+                    "speaker" : "MAGICIAN",
+                    "warriorFaceType" : 1,
+                    "warriorPoseType" : 2,
+                    "magicianFaceType" : 2,
+                    "magicianPoseType" : 1
+                }
+            ]
+        }
+    ],
+
+    "selection" : []
+}
